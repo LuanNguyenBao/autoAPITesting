@@ -12,7 +12,7 @@ public class PropertyReader {
     public String readGlobalProp(String arg) throws IOException {
         Path path = Paths.get("/src/test/resources", "global.properties");
         String dir = System.getProperty("user.dir");
-        String absolutePath = dir.concat("\\").concat(path.toString());
+        String absolutePath = dir.concat("").concat(path.toString());
         InputStream file = new FileInputStream(absolutePath);
         Properties prop = new Properties();
         try {
