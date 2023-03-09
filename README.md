@@ -5,7 +5,7 @@
 #### 2 - Open CMD in Project folder
 #### 3 - Enter the commands:
 - **Run API test cases:**
-> mvn -Dtest=TestRunnerAPI clean test
+> mvn -Dtest=TestRunnerAPI test
 
 
 ## Allure Report:
