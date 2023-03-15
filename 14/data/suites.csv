@@ -1,7 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Mar 09 10:00:54 GMT 2023","Thu Mar 09 10:01:02 GMT 2023","7711","","Create the new users.","","Verify create user api functionality","","Verify create user api functionality",""
-"passed","Thu Mar 09 10:01:04 GMT 2023","Thu Mar 09 10:01:05 GMT 2023","1398","","Create the new users.","","Verify update user api functionality","","Verify update user api functionality",""
-"passed","Thu Mar 09 10:01:02 GMT 2023","Thu Mar 09 10:01:03 GMT 2023","875","","Create the new users.","","Verify create user api functionality","","Verify create user api functionality",""
-"passed","Thu Mar 09 10:01:03 GMT 2023","Thu Mar 09 10:01:04 GMT 2023","765","","Create the new users.","","Verify create user api functionality","","Verify create user api functionality",""
-"failed","Thu Mar 09 10:01:05 GMT 2023","Thu Mar 09 10:01:09 GMT 2023","4077","","Create the new users.","","Verify update user api functionality","","Verify update user api functionality",""
-"broken","Thu Mar 09 10:01:09 GMT 2023","Thu Mar 09 10:01:10 GMT 2023","704","","Create the new users.","","Verify update user api functionality","","Verify update user api functionality",""
